@@ -12,3 +12,5 @@ https://frodrickfronkenstein.github.io/run-buddy/
 
 ## Contribution
 Made for class credit by Eric Smith
+
+### ©️2019 Run Buddy, Inc 
